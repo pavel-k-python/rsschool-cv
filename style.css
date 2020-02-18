@@ -1,0 +1,44 @@
+.container {
+  width: 1024px;
+  margin: 0 auto;
+}
+
+body {
+  margin: 0;
+  font-family: 'Helvetica', 'Arial', sans-serif;
+  font-size: 18px;
+}
+
+.photo {
+  width: 290px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-around;
+  padding: 25px;
+
+}
+
+.footer {
+  display: flex;
+  justify-content: space-around;
+  padding: 25px;
+
+}
+
+
+.link:link, .link:visited {
+  color: #95131a;
+}
+
+.link:hover {
+  color: #009594;
+}
+
+.link:visited {
+  color: gray;
+}
+
+.link {
+}
