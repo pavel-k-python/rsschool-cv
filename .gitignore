@@ -1,0 +1,12 @@
+_other/*
+
+.eslintrc.json
+.jshintrc
+.mdlrc
+.vocabulary
+commitlint.config.js
+commitlint.types.js
+Makefile
+markdown.style.rb
+setup.cfg
+html_validator.py
